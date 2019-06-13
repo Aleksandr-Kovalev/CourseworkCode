@@ -1,0 +1,9 @@
+hammer	10.25
+grill	1000
+spatula	15.95
+paint	25.50
+wrench	20.29
+gloves	30
+saw 19.99
+drill 189.99
+nails 4.99
